@@ -1,2 +1,2 @@
 # hello-world
-for the first degithub demo
+for the first github demo
